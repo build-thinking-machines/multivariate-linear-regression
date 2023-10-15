@@ -1,1 +1,1 @@
-# multivariate-linear-regression
+# Multivariate Linear Regression
